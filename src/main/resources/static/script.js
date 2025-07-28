@@ -235,7 +235,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         // backend API
-        fetch('http://localhost:8081/api/analysis', {
+        fetch('http://localhost:8080/api/analysis', {
             method: 'POST',
             body: formData
         })
