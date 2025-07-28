@@ -1,0 +1,66 @@
+{
+  "industries": {
+    "technology": {
+      "keywords": ["software", "developer", "programming", "IT", "engineer", "coding", "system", "application", "web", "mobile"],
+      "skills": [
+        "java", "python", "javascript", "typescript",
+        "c#", "c++", "php", "ruby",
+        "sql", "mysql", "postgresql", "mongodb",
+        "spring boot", "spring framework", "hibernate",
+        "node.js", "express.js",
+        "html", "css", "sass", "bootstrap",
+        "react", "angular", "vue", "ember",
+        "docker", "kubernetes", "jenkins",
+        "aws", "azure", "google cloud", "cloud computing",
+        "rest api", "graphql", "microservices",
+        "git", "github", "gitlab", "version control",
+        "agile", "scrum", "devops"
+      ]
+    },
+    "healthcare": {
+      "keywords": ["patient", "medical", "nurse", "healthcare", "doctor", "hospital", "clinic", "pharmacy", "physician"],
+      "skills": [
+        "CPR", "first aid", "basic life support",
+        "patient care", "patient education", "patient advocacy",
+        "EMR", "electronic medical records", "ehr",
+        "phlebotomy", "vital signs", "medication administration",
+        "medical terminology", "icd-10 coding",
+        "HIPAA compliance", "patient confidentiality",
+        "infection control", "sterilization techniques"
+      ]
+    },
+    "education": {
+      "keywords": ["teacher", "curriculum", "classroom", "education", "student", "lesson", "teach", "school", "university", "learning"],
+      "skills": [
+        "lesson planning", "curriculum development",
+        "classroom management", "behavior management",
+        "differentiated instruction", "special education",
+        "student assessment", "standardized testing",
+        "educational technology", "google classroom",
+        "zoom teaching", "online learning",
+        "parent-teacher communication"
+      ]
+    },
+    "finance": {
+      "keywords": ["accounting", "financial", "audit", "tax", "bank", "investment", "portfolio", "wealth", "accountant", "auditor"],
+      "skills": [
+        "QuickBooks", "SAP", "Oracle Financials",
+        "Excel", "financial modeling", "vlookup",
+        "GAAP", "IFRS", "financial reporting",
+        "financial analysis", "ratio analysis",
+        "budgeting", "forecasting", "cash flow management",
+        "risk management", "fraud detection",
+        "tax preparation", "tax planning"
+      ]
+    }
+  },
+  "universal_skills": [
+    "communication", "written communication", "verbal communication",
+    "teamwork", "collaboration", "interpersonal skills",
+    "leadership", "management", "mentoring",
+    "problem solving", "critical thinking", "analytical skills",
+    "time management", "organization", "multitasking",
+    "adaptability", "flexibility", "willingness to learn",
+    "creativity", "innovation", "attention to detail"
+  ]
+}
